@@ -1,6 +1,6 @@
 
-**/.DC_Store
-**/.LICENSE
+*.DC_Store
+*.LICENSE
 
 # Logs
 logs
